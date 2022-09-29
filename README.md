@@ -60,11 +60,11 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanrojas329&show_icons=true&locale=en&layout=compact" alt="juanrojas329" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrojas10&show_icons=true&locale=en" alt="juanrojas329" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jrojas10&show_icons=true&locale=en" alt="juanrojas329" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrojas10&" alt="juanrojas329" /></p>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=jrojas10" alt="juanrojas329"/></p>
