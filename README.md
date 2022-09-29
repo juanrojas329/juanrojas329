@@ -62,12 +62,12 @@ I'm a software engineer who is passionate about making contributing to open-sour
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=juanrojas329&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanrojas329&show_icons=true&locale=en&layout=compact" alt="juanrojas329" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanrojas329&show_icons=true&locale=en" alt="juanrojas329" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanrojas329&" alt="juanrojas329" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=juanrojas329)  
 </td>
 <br/>  
 
