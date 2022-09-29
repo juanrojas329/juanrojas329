@@ -67,7 +67,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanrojas329&show_icons=true&locale=en" alt="juanrojas329" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanrojas329&" alt="juanrojas329" /></p>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=juanrojas329)  
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=juanrojas329" alt="juanrojas329"/></p>
 </td>
 <br/>  
 
