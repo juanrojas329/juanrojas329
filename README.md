@@ -2,7 +2,7 @@
   
 
 <a href="https://drive.google.com/file/d/16NyDxYsouAu4DQ1os1GTF-U7_ZgImTgc/view?usp=sharing" target="_blank">
-<img src=https://img.shields.io/badge/About%20me-👨‍💻-green.svg alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Resume%20-📋-gray.svg alt=resume style="margin-bottom: 5px;" />
 </a>  
   
 
@@ -13,7 +13,7 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) <br>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:<br>
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.   
+I'm a full stack web developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies Ienjoy working with include MER(A)N stack(Mongo, Express, React/Angular, Node), LAMP stack(Linux,Apache, MySQL, PHP), JAM stack (JavaScript, APIs + Markup) and GraphQL.
   
 
 <br/>  
