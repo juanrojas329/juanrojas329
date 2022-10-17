@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Juan Rojas.  
   
 
-<a href="https://github.com/juanrojas329" target="_blank">
+<a href="https://drive.google.com/file/d/16NyDxYsouAu4DQ1os1GTF-U7_ZgImTgc/view?usp=sharing" target="_blank">
 <img src=https://img.shields.io/badge/About%20me-👨‍💻-green.svg alt=github style="margin-bottom: 5px;" />
 </a>  
   
