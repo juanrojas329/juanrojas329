@@ -62,12 +62,12 @@ I'm a full stack web developer who is passionate about making contributing to op
 ## Github Stats  
 <table><tr><td valign="top" width="100%">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanrojas329&show_icons=true&locale=en&layout=compact" alt="juanrojas329" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juankiz&show_icons=true&locale=en&layout=compact" alt="juanrojas329" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heltonandreazza&show_icons=true&locale=en" alt="juanrojas329" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juankiz&show_icons=true&locale=en" alt="juanrojas329" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heltonandreazza&" alt="juanrojas329" /></p>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=heltonandreazza" alt="juanrojas329"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juankiz&" alt="juanrojas329" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=juankiz" alt="juanrojas329"/></p>
 </td>
 <br/>  
 
