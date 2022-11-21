@@ -62,7 +62,7 @@ I'm a full stack web developer who is passionate about making contributing to op
 ## Github Stats  
 <table><tr><td valign="top" width="100%">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juankiz&show_icons=true&locale=en&layout=compact" alt="juanrojas329" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanrojas329&show_icons=true&locale=en&layout=compact" alt="juanrojas329" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juankiz&show_icons=true&locale=en" alt="juanrojas329" /></p>
 
