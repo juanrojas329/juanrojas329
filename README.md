@@ -64,10 +64,10 @@ I'm a full stack web developer who is passionate about making contributing to op
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanrojas329&show_icons=true&locale=en&layout=compact" alt="juanrojas329" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Davidr2998&show_icons=true&locale=en" alt="juanrojas329" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heltonandreazza&show_icons=true&locale=en" alt="juanrojas329" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Davidr2998&" alt="juanrojas329" /></p>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Davidr2998" alt="juanrojas329"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heltonandreazza&" alt="juanrojas329" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=heltonandreazza" alt="juanrojas329"/></p>
 </td>
 <br/>  
 
